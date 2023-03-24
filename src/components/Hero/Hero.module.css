@@ -17,7 +17,6 @@
     align-items: center;
     justify-content: center;
     color: var(--standard-white);
-    max-width: 500px;
     gap: 40px;
 }
 
