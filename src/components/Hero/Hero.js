@@ -8,8 +8,9 @@ const Hero = () => {
         <iframe
           width="100%"
           height="600"
-          src="https://www.youtube.com/embed/m0IiD0IufdY"
-          title="Поздравление из Африки для подруги от африканцев"
+          src="https://www.youtube.com/embed/PDISi40G8zo"
+          title='Atomic Heart "Баги, Приколы, Фейлы"'
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowFullScreen
         ></iframe>
       </div>
